@@ -1,8 +1,6 @@
 # Poo_Interfaces
 
-## Jonnathan Sotelo Rodríguez
-## 20202020040
-## Programación Orientada a Objetos
+## Jonnathan Sotelo Rodríguez &nbsp; 20202020040 &nbsp; Programación Orientada a Objetos
 
 Proyectos de Poo con uso de Interfaces gráficas:
 **
