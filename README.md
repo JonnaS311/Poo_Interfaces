@@ -5,7 +5,7 @@
 Proyectos de Poo con uso de Interfaces gráficas:
 
 * 👉 **Juego de dados**
-* 👉 **Calculadora complejos**
+* 👉 **Calculadora de complejos**
 * 👉 **Distancia entre puntos**
 * 👉 **Reloj**
 * 👉 **Descripción de "héroes"**
